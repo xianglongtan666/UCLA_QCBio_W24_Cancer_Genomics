@@ -1,0 +1,5 @@
+# UCLA_QCBio_W24_Cancer_Genomics
+
+As we step into the era of precision medicine, the need for extensive genomic data analysis is more pressing than ever. With the advent of high-throughput technologies, a plethora of genomic, transcriptomic, and epigenomic datasets from cancer patients have been sequenced, providing a wealth of data for systematic bioinformatics analysis. This three-day workshop, comprising three-hour daily sessions, is tailored to assist cancer bioinformaticians, researchers, and graduate students who are interested in incorporating expansive cancer genomic datasets from an open-source platform - The Cancer Genome Atlas (TCGA) - into their research. 
+
+Enrolled participants will gain insights into the fundamental principles of TCGA, including the different data categories and structures, methods for downloading data, and basic pipelines for data analysis within the TCGA platform. The workshop will also provide a versatile R script scaffold for mining TCGA datasets, empowering attendees to analyze their own unique cohorts of cancer genomic datasets.
